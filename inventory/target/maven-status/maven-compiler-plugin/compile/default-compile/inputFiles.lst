@@ -1,0 +1,13 @@
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\InventoryApplication.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\PolicyHandler.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\AbstractEvent.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\config\kafka\KafkaProcessor.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\InventoryController.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\InventoryRepository.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\Registerd.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\OrderCanceled.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\InvUpdated.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\DeliveryCanceled.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\InvRegisterd.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\DeliveryRegisterd.java
+C:\MSA_PROJECT\maskShop3_수정\maskShop3\inventory\src\main\java\maskShop3\Inventory.java
